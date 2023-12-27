@@ -4,15 +4,15 @@
 	type="com.cordys.entity.buildingblocks.layout.Layout"
 	RuntimeDocumentID="98FA9B06-188B-A1EE-A929-404D9FF3D0C1">
 	<DocumentID>98FA9B06-188B-A1EE-A929-404D9FF390C1</DocumentID>
-	<Name>DefaultLayout</Name>
-	<Description>DefaultLayout</Description>
+	<Name>CustomerLayout</Name>
+	<Description>Customer Layout</Description>
 	<CreatedBy>sysadmin</CreatedBy>
 	<CreationDate>2023-12-27T10:45:18.15</CreationDate>
 	<Notes/>
 	<Definition>{&quot;layoutType&quot;:&quot;object&quot;,&quot;id&quot;:&quot;98FA9B06-188B-A1EE-A929-404D9FF390C1&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:10,&quot;id&quot;:&quot;ccb4591e85e4aa8555eb22bc9815e62d&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;fa75615e0be30ee5441b70858c2f2d5d&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;f0700541d18efaa814073f4d24dd45f9&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;9ce5321c6d0f98401e7afa7c382da673&quot;,&quot;nodes&quot;:[]}]}]},{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:10,&quot;id&quot;:&quot;d98ed15947ca7c8244333cd1e2b147a0&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;cac48ca43e9096d881f18b141c28edb2&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;36d14f3b739eba6c4351abbc035c4ece&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;45477d3719378e2714e303d3a4e112e7&quot;,&quot;nodes&quot;:[]}]}]},{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:80,&quot;id&quot;:&quot;383be0303436cdf0dd6c69a2ba12cca6&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;dd4e3bad06144ff89fb5a74cefa7aeaa&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;9253e3719f622894a72bc40ec3171a16&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;ae3a48e7e3b5d2c856c7bb6a05972be4&quot;,&quot;nodes&quot;:[]}]}]}]}</Definition>
 	<HelpURL></HelpURL>
 	<HideCreateAction>false</HideCreateAction>
-	<IncludeInCreate>false</IncludeInCreate>
+	<IncludeInCreate>true</IncludeInCreate>
 	<IsFullLayout>true</IsFullLayout>
 	<IsPreviewLayout>true</IsPreviewLayout>
 	<LayoutPanelType>FitToScreen</LayoutPanelType>
@@ -24,7 +24,25 @@
 			id="98FA9B06-188B-A1EE-A929-3E624FC4D0C1"
 		/>
 	</BuildingBlock>
-	<DisplayName/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="98FA9B06-188B-A1EE-A929-404D9FE0D0C1">
+			<DocumentID>98FA9B06-188B-A1EE-A929-404D9FE090C1</DocumentID>
+			<Name>98FA9B06-188B-A1EE-A929-404D9FE090C1</Name>
+			<Description>98FA9B06-188B-A1EE-A929-404D9FE090C1</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2023-12-27T11:09:41.933</CreationDate>
+			<Notes/>
+			<DeveloperText>Customer Layout</DeveloperText>
+			<Identifier>
+				<uri
+					id="98FA9B06-188B-A1EE-A929-404D9FE110C1"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
 	<FormAssociations>
 		<FormAssociation
 			type="com.cordys.entity.buildingblocks.layout.FormAssociation"

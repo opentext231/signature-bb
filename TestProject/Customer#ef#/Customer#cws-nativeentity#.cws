@@ -622,7 +622,7 @@
 					<CreationDate>2023-12-27T10:45:18.148</CreationDate>
 					<Notes/>
 					<IsPersisted>false</IsPersisted>
-					<TitleSpecification></TitleSpecification>
+					<TitleSpecification>{item.Properties.Name}</TitleSpecification>
 					<DisplayName/>
 				</Title>
 			</Title>

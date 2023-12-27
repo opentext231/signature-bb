@@ -4,8 +4,8 @@
 	type="com.cordys.entity.buildingblocks.worklist.Worklist"
 	RuntimeDocumentID="98FA9B06-188B-A1EE-A929-404D9FF150C1">
 	<DocumentID>98FA9B06-188B-A1EE-A929-404D9FF110C1</DocumentID>
-	<Name>DefaultList</Name>
-	<Description>DefaultList</Description>
+	<Name>CustomerList</Name>
+	<Description>CustomerList</Description>
 	<CreatedBy>sysadmin</CreatedBy>
 	<CreationDate>2023-12-27T10:45:18.148</CreationDate>
 	<Notes/>
@@ -14,7 +14,7 @@
 	<ColumnWidth>0</ColumnWidth>
 	<DefaultCategory></DefaultCategory>
 	<DefaultViewType>0</DefaultViewType>
-	<DisplayCount>0</DisplayCount>
+	<DisplayCount>1</DisplayCount>
 	<ExpressionFilter></ExpressionFilter>
 	<Filters></Filters>
 	<HideIfNoResults>false</HideIfNoResults>
@@ -45,17 +45,17 @@
 		<TranslatableText
 			type="com.cordys.translation.TranslatableText"
 			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-			RuntimeDocumentID="98FA9B06-188B-A1EE-A929-404D9FEE50C1">
-			<DocumentID>98FA9B06-188B-A1EE-A929-404D9FEE10C1</DocumentID>
-			<Name>98FA9B06-188B-A1EE-A929-404D9FEE10C1</Name>
-			<Description>98FA9B06-188B-A1EE-A929-404D9FEE10C1</Description>
+			RuntimeDocumentID="98FA9B06-188B-A1EE-A929-404D9FE310C1">
+			<DocumentID>98FA9B06-188B-A1EE-A929-404D9FE2D0C1</DocumentID>
+			<Name>98FA9B06-188B-A1EE-A929-404D9FE2D0C1</Name>
+			<Description>98FA9B06-188B-A1EE-A929-404D9FE2D0C1</Description>
 			<CreatedBy>sysadmin</CreatedBy>
-			<CreationDate>2023-12-27T10:45:18.147</CreationDate>
+			<CreationDate>2023-12-27T11:09:41.934</CreationDate>
 			<Notes/>
-			<DeveloperText>Default List</DeveloperText>
+			<DeveloperText>Customer List</DeveloperText>
 			<Identifier>
 				<uri
-					id="98FA9B06-188B-A1EE-A929-404D9FEE90C1"
+					id="98FA9B06-188B-A1EE-A929-404D9FE350C1"
 				/>
 			</Identifier>
 		</TranslatableText>
